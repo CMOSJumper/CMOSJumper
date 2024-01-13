@@ -1,7 +1,7 @@
 ```bash
 cmosjumper@github:~$ gh --help
 Usage: gh [OPTION]... [ARGUMENT]...
-Displays the information an user of 'https://github.com'.
+Displays the information of an user of 'https://github.com'.
 
 If the user is angry, it does not show anything.
 If the user is hungry, it displays '🍕'.
