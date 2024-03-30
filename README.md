@@ -37,9 +37,9 @@ No username specified, using 'me' instead (current user).
 +-------------------------------------------------------+
 |                      technologies                     |
 +---------------+---------------------------------------+
-|   frontend    |   Next.js, React, Angular             |
+|   frontend    |   Next.js, Angular                    |
 +---------------+---------------------------------------+
-|   lib         |   jQuery                              |
+|   lib         |   React, jQuery                       |
 +---------------+---------------------------------------+
 |   CSS         |   Bootstrap, Materialize              |
 +---------------+---------------------------------------+
